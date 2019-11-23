@@ -1,0 +1,11 @@
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\bin\Debug\netcoreapp3.0\StackAndQueque.exe
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\bin\Debug\netcoreapp3.0\StackAndQueque.deps.json
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\bin\Debug\netcoreapp3.0\StackAndQueque.runtimeconfig.json
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\bin\Debug\netcoreapp3.0\StackAndQueque.runtimeconfig.dev.json
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\bin\Debug\netcoreapp3.0\StackAndQueque.dll
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\bin\Debug\netcoreapp3.0\StackAndQueque.pdb
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\obj\Debug\netcoreapp3.0\StackAndQueque.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\obj\Debug\netcoreapp3.0\StackAndQueque.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\obj\Debug\netcoreapp3.0\StackAndQueque.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\obj\Debug\netcoreapp3.0\StackAndQueque.dll
+C:\Users\ahmet\source\repos\DataStructure\StackAndQueque\obj\Debug\netcoreapp3.0\StackAndQueque.pdb

@@ -1,0 +1,11 @@
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\bin\Debug\netcoreapp3.0\StackandQueue.exe
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\bin\Debug\netcoreapp3.0\StackandQueue.deps.json
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\bin\Debug\netcoreapp3.0\StackandQueue.runtimeconfig.json
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\bin\Debug\netcoreapp3.0\StackandQueue.runtimeconfig.dev.json
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\bin\Debug\netcoreapp3.0\StackandQueue.dll
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\bin\Debug\netcoreapp3.0\StackandQueue.pdb
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\obj\Debug\netcoreapp3.0\StackandQueue.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\obj\Debug\netcoreapp3.0\StackandQueue.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\obj\Debug\netcoreapp3.0\StackandQueue.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\obj\Debug\netcoreapp3.0\StackandQueue.dll
+C:\Users\ahmet\source\repos\DataStructure\StackandQueue\obj\Debug\netcoreapp3.0\StackandQueue.pdb
